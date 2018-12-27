@@ -1,1 +1,1 @@
-# NMPC_MPI
+# NMPC MPI
