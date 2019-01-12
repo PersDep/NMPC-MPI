@@ -4,3 +4,7 @@
 \.idea/
 
 cmake-build-debug/
+
+mc_walks_stats/
+
+*.txt
